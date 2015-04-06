@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[save(File("${1:path/to/file}")) ${2://file is optional}]]></content>
+	<tabTrigger>save</tabTrigger>
+	<scope>source.js</scope>
+	<description>.save()</description>
+</snippet>

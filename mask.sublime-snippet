@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[mask(${1:index})]]></content>
+	<tabTrigger>mask</tabTrigger>
+	<scope>source.js</scope>
+	<description>.mask()</description>
+</snippet>

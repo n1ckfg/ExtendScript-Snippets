@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setSpatialTangentsAtKey(${1:keyIndex}, ${2:inTangent}, ${3:outTangent}) //outTangent is optional]]></content>
+	<tabTrigger>setspatialtangentsatkey</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setSpatialTangentsAtKey()</description>
+</snippet>

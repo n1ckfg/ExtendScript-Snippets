@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[quit()]]></content>
+	<tabTrigger>quit</tabTrigger>
+	<scope>source.js</scope>
+	<description>.quit()</description>
+</snippet>

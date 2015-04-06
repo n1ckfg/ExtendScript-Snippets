@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addProperty("${1:name/matchName}")]]></content>
+	<tabTrigger>addproperty</tabTrigger>
+	<scope>source.js</scope>
+	<description>.addProperty()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[copyToComp(${1:comp})]]></content>
+	<tabTrigger>copytocomp</tabTrigger>
+	<scope>source.js</scope>
+	<description>.copyToComp()</description>
+</snippet>

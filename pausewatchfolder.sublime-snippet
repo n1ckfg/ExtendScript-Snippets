@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[pauseWatchFolder(${1:boolean})]]></content>
+	<tabTrigger>pausewatchfolder</tabTrigger>
+	<scope>source.js</scope>
+	<description>.pauseWatchFolder()</description>
+</snippet>

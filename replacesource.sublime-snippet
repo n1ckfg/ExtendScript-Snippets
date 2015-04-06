@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[replaceSource(${1:newSource}, ${2:fixExpressions/boolean})]]></content>
+	<tabTrigger>replacesource</tabTrigger>
+	<scope>source.js</scope>
+	<description>.replaceSource()</description>
+</snippet>

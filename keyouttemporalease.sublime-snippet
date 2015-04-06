@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[keyOutTemporalEase(${1:keyIndex})]]></content>
+	<tabTrigger>keyouttemporalease</tabTrigger>
+	<scope>source.js</scope>
+	<description>.keyOutTemporalEase()</description>
+</snippet>

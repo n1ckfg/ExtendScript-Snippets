@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setRovingAtKey(${1:keyIndex}, ${2:isRoving/boolean})]]></content>
+	<tabTrigger>setrovingatkey</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setRovingAtKey()</description>
+</snippet>

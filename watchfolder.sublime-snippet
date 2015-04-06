@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[watchFolder(${1:folder})]]></content>
+	<tabTrigger>watchfolder</tabTrigger>
+	<scope>source.js</scope>
+	<description>.watchFolder()</description>
+</snippet>

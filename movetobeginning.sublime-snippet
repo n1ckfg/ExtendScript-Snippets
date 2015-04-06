@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[moveToBeginning()]]></content>
+	<tabTrigger>movetobeginning</tabTrigger>
+	<scope>source.js</scope>
+	<description>.moveToBeginning()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cancelTask(${1:taskID})]]></content>
+	<tabTrigger>canceltask</tabTrigger>
+	<scope>source.js</scope>
+	<description>.cancelTask()</description>
+</snippet>

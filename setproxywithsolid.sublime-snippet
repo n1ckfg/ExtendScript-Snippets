@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setProxyWithSolid(${1:color}, "${2:name}", ${3:width}, ${4:height}, ${5:pixelAspect})]]></content>
+	<tabTrigger>setproxywithsolid</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setProxyWithSolid()</description>
+</snippet>

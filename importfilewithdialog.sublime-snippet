@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[importFileWithDialog()]]></content>
+	<tabTrigger>importfilewithdialog</tabTrigger>
+	<scope>source.js</scope>
+	<description>.importFileWithDialog()</description>
+</snippet>

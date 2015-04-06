@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setValueAtKey(${1:keyIndex}, ${2:value})]]></content>
+	<tabTrigger>setvalueatkey</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setValueAtKey()</description>
+</snippet>

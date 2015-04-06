@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[moveAfter(${1:layer})]]></content>
+	<tabTrigger>moveafter</tabTrigger>
+	<scope>source.js</scope>
+	<description>.moveAfter()</description>
+</snippet>

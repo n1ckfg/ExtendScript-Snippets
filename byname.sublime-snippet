@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[byName("${1:name}")]]></content>
+	<tabTrigger>byname</tabTrigger>
+	<scope>source.js</scope>
+	<description>.byName()</description>
+</snippet>

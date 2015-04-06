@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addShape()]]></content>
+	<tabTrigger>addshape</tabTrigger>
+	<scope>source.js</scope>
+	<description>.addShape()</description>
+</snippet>

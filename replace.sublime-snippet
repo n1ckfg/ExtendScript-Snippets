@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[replace(File("${1:path/to/file}"))]]></content>
+	<tabTrigger>replace</tabTrigger>
+	<scope>source.js</scope>
+	<description>.replace()</description>
+</snippet>

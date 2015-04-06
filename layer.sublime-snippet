@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[layer(${1:layer}, ${2:relIndex})]]></content>
+	<tabTrigger>layer</tabTrigger>
+	<scope>source.js</scope>
+	<description>.layer()</description>
+</snippet>

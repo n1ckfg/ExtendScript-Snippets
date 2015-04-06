@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[outputModule(${1:index})]]></content>
+	<tabTrigger>outputmodule</tabTrigger>
+	<scope>source.js</scope>
+	<description>.outputModule()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[moveToEnd()]]></content>
+	<tabTrigger>movetoend</tabTrigger>
+	<scope>source.js</scope>
+	<description>.moveToEnd()</description>
+</snippet>

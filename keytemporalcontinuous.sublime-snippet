@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[keyTemporalContinuous(${1:keyIndex})]]></content>
+	<tabTrigger>keytemporalcontinuous</tabTrigger>
+	<scope>source.js</scope>
+	<description>.keyTemporalContinuous()</description>
+</snippet>

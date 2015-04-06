@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getSeparationFollower(${1:dimension})]]></content>
+	<tabTrigger>getseparationfollower</tabTrigger>
+	<scope>source.js</scope>
+	<description>.getSeparationFollower()</description>
+</snippet>

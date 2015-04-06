@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[endWatchFolder()]]></content>
+	<tabTrigger>endwatchfolder</tabTrigger>
+	<scope>source.js</scope>
+	<description>.endWatchFolder()</description>
+</snippet>

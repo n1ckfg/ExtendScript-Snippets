@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[keyInSpatialTangent(${1:keyIndex})]]></content>
+	<tabTrigger>keyinspatialtangent</tabTrigger>
+	<scope>source.js</scope>
+	<description>.keyInSpatialTangent()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[stopRendering()]]></content>
+	<tabTrigger>stoprendering</tabTrigger>
+	<scope>source.js</scope>
+	<description>.stopRendering()</description>
+</snippet>

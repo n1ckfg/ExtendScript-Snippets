@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[calculateTransformFromPoints(${1:pointTopLeft}, ${2:pointTopRight}, ${3:pointBottomRight})]]></content>
+	<tabTrigger>calculatetransformfrompoints</tabTrigger>
+	<scope>source.js</scope>
+	<description>.calculateTransformFromPoints()</description>
+</snippet>

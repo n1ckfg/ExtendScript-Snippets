@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sourceRectAtTime(${1:time}, ${2:extents/boolean})]]></content>
+	<tabTrigger>sourcerectattime</tabTrigger>
+	<scope>source.js</scope>
+	<description>.sourceRectAtTime()</description>
+</snippet>

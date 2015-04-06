@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[endUndoGroup()]]></content>
+	<tabTrigger>endundogroup</tabTrigger>
+	<scope>source.js</scope>
+	<description>.endUndoGroup()</description>
+</snippet>

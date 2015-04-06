@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[beginUndoGroup("${1:undoString}")]]></content>
+	<tabTrigger>beginundogroup</tabTrigger>
+	<scope>source.js</scope>
+	<description>.beginUndoGroup()</description>
+</snippet>

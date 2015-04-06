@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[propertyGroup(${1:countUp})]]></content>
+	<tabTrigger>propertygroup</tabTrigger>
+	<scope>source.js</scope>
+	<description>.propertyGroup()</description>
+</snippet>

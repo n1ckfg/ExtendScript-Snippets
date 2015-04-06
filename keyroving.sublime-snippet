@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[keyRoving(${1:keyIndex})]]></content>
+	<tabTrigger>keyroving</tabTrigger>
+	<scope>source.js</scope>
+	<description>.keyRoving()</description>
+</snippet>

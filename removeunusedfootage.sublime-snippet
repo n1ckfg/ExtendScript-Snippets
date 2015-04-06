@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeUnusedFootage()]]></content>
+	<tabTrigger>removeunusedfootage</tabTrigger>
+	<scope>source.js</scope>
+	<description>.removeUnusedFootage()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setMemoryUsageLimits(${1:imageCachePercentage}, ${2:maximumMemoryPercentage})]]></content>
+	<tabTrigger>setmemoryusagelimits</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setMemoryUsageLimits()</description>
+</snippet>

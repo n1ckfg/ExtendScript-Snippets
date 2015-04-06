@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[saveAsTemplate("${1:name}")]]></content>
+	<tabTrigger>saveastemplate</tabTrigger>
+	<scope>source.js</scope>
+	<description>.saveAsTemplate()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setTemporalContinuousAtKey(${1:keyIndex}, ${2:isContinuous/boolean})]]></content>
+	<tabTrigger>settemporalcontinuousatkey</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setTemporalContinuousAtKey()</description>
+</snippet>

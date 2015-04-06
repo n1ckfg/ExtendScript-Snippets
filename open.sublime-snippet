@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[open(File("${1:path/to/file}"))]]></content>
+	<tabTrigger>open</tabTrigger>
+	<scope>source.js</scope>
+	<description>.open()</description>
+</snippet>

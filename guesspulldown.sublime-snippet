@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[guessPulldown(PulldownMethod.${1:PULLDOWN_3_2/ADVANCE_24P})]]></content>
+	<tabTrigger>guesspulldown</tabTrigger>
+	<scope>source.js</scope>
+	<description>.guessPulldown()</description>
+</snippet>

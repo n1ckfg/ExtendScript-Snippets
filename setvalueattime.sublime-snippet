@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setValueAtTime(${1:time}, ${2:value})]]></content>
+	<tabTrigger>setvalueattime</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setValueAtTime()</description>
+</snippet>

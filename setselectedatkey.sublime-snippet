@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setSelectedAtKey(${1:keyIndex}, ${2:isSelected/boolean})]]></content>
+	<tabTrigger>setselectedatkey</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setSelectedAtKey()</description>
+</snippet>

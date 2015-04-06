@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[activeAtTime(${1:time})]]></content>
+	<tabTrigger>activeattime</tabTrigger>
+	<scope>source.js</scope>
+	<description>.activeAtTime()</description>
+</snippet>

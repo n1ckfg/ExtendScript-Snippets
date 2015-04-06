@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setProxyWithSequence(File("${1:path/to/file}"), ${2:forceAlphabetical/boolean})]]></content>
+	<tabTrigger>setproxywithsequence</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setProxyWithSequence()</description>
+</snippet>

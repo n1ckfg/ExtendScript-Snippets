@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addText("${1:source text}") ${2://text is optional}]]></content>
+	<tabTrigger>addtext</tabTrigger>
+	<scope>source.js</scope>
+	<description>.addText()</description>
+</snippet>

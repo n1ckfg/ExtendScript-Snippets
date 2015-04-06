@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[scheduleTask("${1:stringToExecute}", ${2:delay}, ${3:repeat/boolean})]]></content>
+	<tabTrigger>scheduletask</tabTrigger>
+	<scope>source.js</scope>
+	<description>.scheduleTask()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[newProject()]]></content>
+	<tabTrigger>newproject</tabTrigger>
+	<scope>source.js</scope>
+	<description>.newProject()</description>
+</snippet>

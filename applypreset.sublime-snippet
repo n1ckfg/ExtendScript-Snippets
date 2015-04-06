@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[applyPreset(File("${1:path/to/file}"))]]></content>
+	<tabTrigger>applypreset</tabTrigger>
+	<scope>source.js</scope>
+	<description>.applyPreset()</description>
+</snippet>

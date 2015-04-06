@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[canImportAs(ImportAsType.${1:COMP/FOOTAGE/COMP_CROPPED_LAYERS/PROJECT})]]></content>
+	<tabTrigger>canimportas</tabTrigger>
+	<scope>source.js</scope>
+	<description>.canImportAs()</description>
+</snippet>

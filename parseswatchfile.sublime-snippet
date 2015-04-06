@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[parseSwatchFile(File("${1:path/to/file}"))]]></content>
+	<tabTrigger>parseswatchfile</tabTrigger>
+	<scope>source.js</scope>
+	<description>.parseSwatchFile()</description>
+</snippet>

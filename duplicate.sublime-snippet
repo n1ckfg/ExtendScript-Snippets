@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[duplicate()]]></content>
+	<tabTrigger>duplicate</tabTrigger>
+	<scope>source.js</scope>
+	<description>.duplicate()</description>
+</snippet>

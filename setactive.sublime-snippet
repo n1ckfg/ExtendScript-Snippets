@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setActive()]]></content>
+	<tabTrigger>setactive</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setActive()</description>
+</snippet>

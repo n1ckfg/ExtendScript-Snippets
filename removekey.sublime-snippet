@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[removeKey(${1:keyIndex})]]></content>
+	<tabTrigger>removekey</tabTrigger>
+	<scope>source.js</scope>
+	<description>.removeKey()</description>
+</snippet>

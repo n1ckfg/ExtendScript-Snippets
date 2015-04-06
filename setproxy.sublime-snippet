@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setProxy(File("${1:path/to/file}"))]]></content>
+	<tabTrigger>setproxy</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setProxy()</description>
+</snippet>

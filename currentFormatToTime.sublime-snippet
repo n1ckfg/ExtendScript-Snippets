@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[currentFormatToTime(${1:formattedTime}, ${2:fps}, ${3:isDuration});]]></content>
+	<tabTrigger>currentformattotime</tabTrigger>
+	<description>currentFormatToTime()</description>
+	<scope>source.js</scope>
+</snippet>

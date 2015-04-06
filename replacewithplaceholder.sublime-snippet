@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[replaceWithPlaceholder("${1:name}", ${2:width}, ${3:height}, ${4:frameRate}, ${5:duration})]]></content>
+	<tabTrigger>replacewithplaceholder</tabTrigger>
+	<scope>source.js</scope>
+	<description>.replaceWithPlaceholder()</description>
+</snippet>

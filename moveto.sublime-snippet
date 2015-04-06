@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[moveTo(${1:index})]]></content>
+	<tabTrigger>moveto</tabTrigger>
+	<scope>source.js</scope>
+	<description>.moveTo()</description>
+</snippet>

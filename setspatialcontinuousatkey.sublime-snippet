@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setSpatialContinuousAtKey(${1:keyIndex}, ${2:isContinuous/boolean})]]></content>
+	<tabTrigger>setspatialcontinuousatkey</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setSpatialContinuousAtKey()</description>
+</snippet>

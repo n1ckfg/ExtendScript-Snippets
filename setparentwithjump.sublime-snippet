@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setParentWithJump(${1:layer}) ${2://layer is optional}]]></content>
+	<tabTrigger>setparentwithjump</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setParentWithJump()</description>
+</snippet>

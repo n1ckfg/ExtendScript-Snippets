@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setTemporalAutoBezierAtKey(${1:keyIndex}, ${2:isAutoBezier/boolean})]]></content>
+	<tabTrigger>settemporalautobezieratkey</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setTemporalAutoBezierAtKey()</description>
+</snippet>

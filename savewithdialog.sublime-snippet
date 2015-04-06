@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[saveWithDialog()]]></content>
+	<tabTrigger>savewithdialog</tabTrigger>
+	<scope>source.js</scope>
+	<description>.saveWithDialog()</description>
+</snippet>

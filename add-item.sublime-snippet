@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[add(${1:item}, ${2:duration}) $3{://duration is optional}]]></content>
+	<tabTrigger>add</tabTrigger>
+	<scope>source.js</scope>
+	<description>.add() - item</description>
+</snippet>

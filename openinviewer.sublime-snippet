@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[openInViewer()]]></content>
+	<tabTrigger>openinviewer</tabTrigger>
+	<scope>source.js</scope>
+	<description>.openInViewer()</description>
+</snippet>

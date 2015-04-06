@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setInterpolationTypeAtKey(${1:keyIndex}, KeyframeInterpolationType.${2:LINEAR/BEZIER/HOLD}, KeyframeInterpolationType.${3:LINEAR/BEZIER/HOLD})]]></content>
+	<tabTrigger>setinterpolationtypeatkey</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setInterpolationTypeAtKey()</description>
+</snippet>

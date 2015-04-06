@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addLight("${1:name}", ${2:centerPoint})]]></content>
+	<tabTrigger>addlight</tabTrigger>
+	<scope>source.js</scope>
+	<description>.addLight()</description>
+</snippet>

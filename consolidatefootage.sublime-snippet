@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[consolidateFootage()]]></content>
+	<tabTrigger>consolidatefootage</tabTrigger>
+	<scope>source.js</scope>
+	<description>.consolidateFootage()</description>
+</snippet>

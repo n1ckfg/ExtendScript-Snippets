@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setProxyWithPlaceholder("${1:name}", ${2:width}, ${3:height}, ${4:frameRate}, ${5:duration})]]></content>
+	<tabTrigger>setproxywithplaceholder</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setProxyWithPlaceholder()</description>
+</snippet>

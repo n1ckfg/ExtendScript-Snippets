@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[keyInInterpolationType(${1:keyIndex})]]></content>
+	<tabTrigger>keyininterpolationtype</tabTrigger>
+	<scope>source.js</scope>
+	<description>.keyInInterpolationType()</description>
+</snippet>

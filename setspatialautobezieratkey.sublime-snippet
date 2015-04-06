@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setSpatialAutoBezierAtKey(${1:keyIndex}, ${2:isAutoBezier/boolean})]]></content>
+	<tabTrigger>setspatialautobezieratkey</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setSpatialAutoBezierAtKey()</description>
+</snippet>

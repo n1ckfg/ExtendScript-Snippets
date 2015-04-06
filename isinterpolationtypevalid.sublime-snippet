@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isInterpolationTypeValid(KeyframeInterpolationType.${1:LINEAR/BEZIER/HOLD})]]></content>
+	<tabTrigger>isinterpolationtypevalid</tabTrigger>
+	<scope>source.js</scope>
+	<description>.isInterpolationTypeValid()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[nearestKeyIndex(${1:time})]]></content>
+	<tabTrigger>nearestkeyindex</tabTrigger>
+	<scope>source.js</scope>
+	<description>.nearestKeyIndex()</description>
+</snippet>

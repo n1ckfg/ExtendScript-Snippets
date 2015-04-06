@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setSavePreferencesOnQuit(${1:boolean})]]></content>
+	<tabTrigger>setsavepreferencesonquit</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setSavePreferencesOnQuit()</description>
+</snippet>

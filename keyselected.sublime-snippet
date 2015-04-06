@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[keySelected(${1:keyIndex})]]></content>
+	<tabTrigger>keyselected</tabTrigger>
+	<scope>source.js</scope>
+	<description>.keySelected()</description>
+</snippet>

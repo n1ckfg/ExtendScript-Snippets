@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[close(CloseOptions.${1:DO_NOT_SAVE_CHANGES/PROMPT_TO_SAVE_CHANGES/SAVE_CHANGES})]]></content>
+	<tabTrigger>close</tabTrigger>
+	<scope>source.js</scope>
+	<description>.close()</description>
+</snippet>

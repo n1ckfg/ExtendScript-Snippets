@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[callSystem("${1:command line to execute}")]]></content>
+	<tabTrigger>callsystem</tabTrigger>
+	<scope>source.js</scope>
+	<description>.callSystem()</description>
+</snippet>

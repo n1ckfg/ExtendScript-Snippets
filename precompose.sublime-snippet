@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[precompose(${1:[layerIndicies]}, "${2:name}", ${3:moveAttr/boolean}) ${4://moveAttr is optional}]]></content>
+	<tabTrigger>precompose</tabTrigger>
+	<scope>source.js</scope>
+	<description>.precompose()</description>
+</snippet>

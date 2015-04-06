@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[resetParagraphStyle()]]></content>
+	<tabTrigger>resetparagraphstyle</tabTrigger>
+	<scope>source.js</scope>
+	<description>.resetParagraphStyle()</description>
+</snippet>

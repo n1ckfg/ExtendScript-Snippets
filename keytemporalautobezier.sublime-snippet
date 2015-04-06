@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[keyTemporalAutoBezier(${1:keyIndex})]]></content>
+	<tabTrigger>keytemporalautobezier</tabTrigger>
+	<scope>source.js</scope>
+	<description>.keyTemporalAutoBezier()</description>
+</snippet>

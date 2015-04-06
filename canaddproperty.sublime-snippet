@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[canAddProperty("${1:name/matchName}")]]></content>
+	<tabTrigger>canaddproperty</tabTrigger>
+	<scope>source.js</scope>
+	<description>.canAddProperty()</description>
+</snippet>

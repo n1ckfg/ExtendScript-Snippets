@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addCamera("${1:name}", ${2:centerPoint})]]></content>
+	<tabTrigger>addcamera</tabTrigger>
+	<scope>source.js</scope>
+	<description>.addCamera()</description>
+</snippet>

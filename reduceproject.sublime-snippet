@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[reduceProject(${1:[itemArray]})]]></content>
+	<tabTrigger>reduceproject</tabTrigger>
+	<scope>source.js</scope>
+	<description>.reduceProject()</description>
+</snippet>

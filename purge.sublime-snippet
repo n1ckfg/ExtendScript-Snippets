@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[purge(PurgeTarget.${1:ALL_CACHES/UNDO_CACHES/SNAPSHOT_CACHES/IMAGE_CACHES})]]></content>
+	<tabTrigger>purge</tabTrigger>
+	<scope>source.js</scope>
+	<description>.purge()</description>
+</snippet>

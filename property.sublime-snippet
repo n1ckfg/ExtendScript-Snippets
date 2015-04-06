@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[property(${1:index/"name/matchName"})]]></content>
+	<tabTrigger>property</tabTrigger>
+	<scope>source.js</scope>
+	<description>.property()</description>
+</snippet>

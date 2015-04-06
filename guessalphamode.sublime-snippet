@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[guessAlphaMode()]]></content>
+	<tabTrigger>guessalphamode</tabTrigger>
+	<scope>source.js</scope>
+	<description>.guessAlphaMode()</description>
+</snippet>

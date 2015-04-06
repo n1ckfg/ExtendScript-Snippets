@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[importFile(${1:importOptions})]]></content>
+	<tabTrigger>importfile</tabTrigger>
+	<scope>source.js</scope>
+	<description>.importFile()</description>
+</snippet>

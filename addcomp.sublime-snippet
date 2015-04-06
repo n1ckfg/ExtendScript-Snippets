@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addComp("${1:name}", ${2:width}, ${3:height}, ${4:pixelAspect}, ${5:duration}, ${6:frameRate})]]></content>
+	<tabTrigger>addcomp</tabTrigger>
+	<scope>source.js</scope>
+	<description>.addComp()</description>
+</snippet>

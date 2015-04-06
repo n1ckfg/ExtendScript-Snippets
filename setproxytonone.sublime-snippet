@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setProxyToNone()]]></content>
+	<tabTrigger>setproxytonone</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setProxyToNone()</description>
+</snippet>

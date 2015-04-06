@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addFolder("${1:name}")]]></content>
+	<tabTrigger>addfolder</tabTrigger>
+	<scope>source.js</scope>
+	<description>.addFolder()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[reload()]]></content>
+	<tabTrigger>reload</tabTrigger>
+	<scope>source.js</scope>
+	<description>.reload()</description>
+</snippet>

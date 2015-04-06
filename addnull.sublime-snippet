@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addNull(${1:duration}) $2{://duration is optional}]]></content>
+	<tabTrigger>addnull</tabTrigger>
+	<scope>source.js</scope>
+	<description>.addNull()</description>
+</snippet>

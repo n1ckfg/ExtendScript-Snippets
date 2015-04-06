@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[writeLn(${1:text});]]></content>
+	<tabTrigger>writeln</tabTrigger>
+	<description>writeLn() - Line Break</description>
+	<scope>source.js</scope>
+</snippet>

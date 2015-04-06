@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setTemporalEaseAtKey(${1:keyIndex}, ${2:inTemporalEase}, ${3:outTemporalEase})]]></content>
+	<tabTrigger>settemporaleaseatkey</tabTrigger>
+	<scope>source.js</scope>
+	<description>.setTemporalEaseAtKey()</description>
+</snippet>

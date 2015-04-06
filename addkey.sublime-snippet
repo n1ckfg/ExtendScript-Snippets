@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[addKey(${1:time})]]></content>
+	<tabTrigger>addkey</tabTrigger>
+	<scope>source.js</scope>
+	<description>.addKey()</description>
+</snippet>

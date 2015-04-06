@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[saveSetting("${1:sectionName}", "${2:keyName}", "${3:value}")]]></content>
+	<tabTrigger>savesetting</tabTrigger>
+	<scope>source.js</scope>
+	<description>.saveSetting()</description>
+</snippet>

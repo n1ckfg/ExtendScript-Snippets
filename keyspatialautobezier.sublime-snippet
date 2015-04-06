@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[keySpatialAutoBezier(${1:keyIndex})]]></content>
+	<tabTrigger>keyspatialautobezier</tabTrigger>
+	<scope>source.js</scope>
+	<description>.keySpatialAutoBezier()</description>
+</snippet>

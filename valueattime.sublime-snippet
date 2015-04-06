@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[valueAtTime(${1:time}, ${2:preExpression})]]></content>
+	<tabTrigger>valueattime</tabTrigger>
+	<scope>source.js</scope>
+	<description>.valueAtTime()</description>
+</snippet>

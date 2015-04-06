@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[resetCharStyle()]]></content>
+	<tabTrigger>resetcharstyle</tabTrigger>
+	<scope>source.js</scope>
+	<description>.resetCharStyle()</description>
+</snippet>

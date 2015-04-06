@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[audioActiveAtTime(${1:time})]]></content>
+	<tabTrigger>audioactiveattime</tabTrigger>
+	<scope>source.js</scope>
+	<description>.audioActiveAtTime()</description>
+</snippet>

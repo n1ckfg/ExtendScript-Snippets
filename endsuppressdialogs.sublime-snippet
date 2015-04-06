@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[endSuppressDialogs(${1:alert})]]></content>
+	<tabTrigger>endsuppressdialogs</tabTrigger>
+	<scope>source.js</scope>
+	<description>.endSuppressDialogs()</description>
+</snippet>

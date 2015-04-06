@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[importPlaceholder("${1:name}", ${2:width}, ${3:height}, ${4:frameRate}, ${5:duration})]]></content>
+	<tabTrigger>importplaceholder</tabTrigger>
+	<scope>source.js</scope>
+	<description>.importPlaceholder()</description>
+</snippet>

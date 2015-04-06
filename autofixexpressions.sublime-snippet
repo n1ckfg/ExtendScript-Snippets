@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[autoFixExpressions("${1:old text}", "${2:new text}")]]></content>
+	<tabTrigger>autofixexpressions</tabTrigger>
+	<scope>source.js</scope>
+	<description>.autoFixExpressions()</description>
+</snippet>
